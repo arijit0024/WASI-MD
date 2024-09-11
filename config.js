@@ -11,7 +11,7 @@ global.email ="jastinmtewa@yahoo.com"
 global.location="Morogoro,Tanzania."
 global.mongodb= process.env.MONGODB_URI || "mongodb+srv://wasitech10:WASImd##12@cluster0.eclhxiz.mongodb.net/?retryWrites=true&w=majority"
 
-global.allowJids= process.env.ALLOW_JID || "null" 
+global.allowJids= process.env.ALLOW_JID || "917863923012@s.whatsapp.net" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 
 
@@ -25,9 +25,9 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://gi
 
 
 
-global.devs = "923192173398" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923192173398";
+global.devs = "917863923012" // Developer Contact
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "917863923012";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "917863923012";
 
 
 
